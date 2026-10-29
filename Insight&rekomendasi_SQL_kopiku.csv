@@ -1,0 +1,197 @@
+Insight Pertanyaan 1
+"Pendapatan semester pertama 2024 turun 6,5% dibanding 2023. Januari–Juni 2023 menghasilkan 
+Rp 1.019 juta, sedangkan Januari–Juni 2024 Rp 953 juta. Penurunan ini sejalan dengan jumlah 
+pesanan yang turun 5,5% (524 menjadi 495), sehingga penyebab utamanya adalah volume pesanan, 
+bukan nilai per pesanan."
+"Nilai per pesanan relatif stabil. Rata-rata nilai pesanan berkisar Rp 2,7 juta sampai Rp 4,0 juta tanpa 
+tren yang jelas. Artinya, pelanggan tidak berbelanja lebih sedikit per transaksi, tetapi frekuensi 
+pesanannya yang berubah."
+"Ada titik lemah yang jelas di Februari sampai April 2024. Pendapatan Maret 2024 adalah yang 
+terendah sepanjang periode, yaitu Rp 100,6 juta dengan 69 pesanan. Bulan itu juga mencatat jumlah 
+pesanan terendah. April 2024 turun 28,2% dibanding April 2023."
+"Pemulihan terjadi di Mei dan Juni 2024. Juni 2024 naik 26% dibanding Juni 2023 dengan pendapatan 
+Rp 190 juta, dan tingkat pembatalan turun ke 10%, angka terendah di tahun 2024."
+"Pembatalan sempat melonjak di April 2024. Tingkat pembatalan 22,1% adalah yang tertinggi di 
+seluruh periode, tepat pada bulan dengan penurunan pendapatan paling dalam di kuartal itu. Rata-
+rata pembatalan 2024 semester pertama (14,3%) sebenarnya lebih baik dibanding 2023 (15,5%), jadi 
+lonjakan April bersifat sementara."
+"Pola musiman belum bisa disimpulkan dari data ini. Februari 2023 adalah puncak pendapatan, tetapi 
+Februari 2024 turun 36%. Dengan hanya dua tahun data, kita belum bisa memastikan apakah itu 
+musiman atau kejadian tertentu."
+
+Rekomendasi Strategi Pertanyaan 1
+"Selidiki penyebab penurunan Maret sampai April 2024. Cek apakah ada produk yang kehabisan stok, 
+perubahan harga, atau kampanye yang dihentikan pada periode itu. Ini langkah pertama yang paling 
+murah dan cepat."
+"Fokus pada akuisisi pelanggan baru. Tingkat repeat buyer sudah 96,6%, sehingga pelanggan yang 
+sudah ada cenderung kembali. Pertumbuhan volume lebih mungkin datang dari pelanggan baru, 
+misalnya lewat iklan, referral, atau promo pendaftaran."
+"Tekan pembatalan dengan memeriksa metode pembayaran. Dari query 5, metode dengan 
+pembatalan tertinggi adalah E-Wallet (17,9%) dan Kartu Kredit (17,1%), sedangkan Transfer Bank 
+hanya 13,4%. Perlu dicek lebih lanjut apakah ini disebabkan oleh metode itu sendiri atau faktor lain, 
+seperti stok atau keterlambatan pengiriman."
+"Siapkan rencana untuk periode yang historisnya lemah. Mulai rencana promosi dan persediaan 
+sebelum Februari dan Maret, karena di kedua tahun pola pendapatan tampak turun di periode itu."
+"Pantau pertumbuhan YoY setiap bulan. Jadikan persentase pertumbuhan YoY sebagai indikator 
+utama, dengan target minimal 0% atau positif. Bulan yang turun lebih dari 20% sebaiknya langsung 
+dievaluasi."
+"Dorong nilai per pesanan. Karena rata-rata nilai pesanan sudah stabil, paket bundling atau 
+rekomendasi produk tambahan bisa menaikkan pendapatan tanpa perlu menambah banyak pesanan."
+
+
+Insight Pertanyaan 2
+"Pendapatan terkonsentrasi di beberapa kota. Makassar, Semarang, dan Surabaya bersama-sama 
+menyumbang Rp 1.012 juta, atau sekitar 35% dari total Rp 2.872 juta. Sisanya tersebar di tujuh kota 
+lain."
+"Jumlah pelanggan dan besar belanja tidak selalu searah. Medan (Rp 22,1 juta per pelanggan), 
+Jakarta (Rp 20,6 juta), dan Yogyakarta (Rp 20,6 juta) memiliki belanja per pelanggan tertinggi, tetapi 
+basis pelanggannya kecil. Sebaliknya, Makassar dan Bandung hanya sekitar Rp 15 juta per pelanggan 
+meskipun basisnya lebih besar."
+"Hampir semua pelanggan adalah repeat buyer. Sebanyak 143 dari 148 pelanggan aktif sudah 
+berbelanja lebih dari sekali (96,6%). Di enam kota tingkatnya 100%. Yang terendah adalah Semarang 
+(90,5%) dan Makassar (91,7%)."
+"Kesenjangan terbesar ada pada aktivitas 3 bulan terakhir. Dari 148 pelanggan yang pernah 
+berbelanja, hanya 91 yang aktif dalam 3 bulan terakhir (61,5%). Persentase terendah ada di Bekasi 
+(6 dari 15, atau 40%), Semarang (10 dari 21, atau 48%), dan Makassar (12 dari 24, atau 50%)."
+"Nilai rata-rata pesanan paling rendah di Bandung. Bandung mencatat Rp 2,72 juta per pesanan, 
+jauh di bawah Yogyakarta (Rp 3,49 juta) dan Denpasar (Rp 3,39 juta)."
+"Rp 204,7 juta (sekitar 7%) tidak bisa dikaitkan ke pelanggan. Pesanan ini tidak memiliki id 
+pelanggan yang valid. Angka ini cukup besar untuk memengaruhi analisis per kota."
+
+Rekomendasi Strategi Pertanyaan 2
+"Lakukan reaktivasi pelanggan di Bekasi, Semarang, dan Makassar. Ketiga kota ini memiliki proporsi 
+pelanggan tidak aktif terbesar. Kirim promo khusus atau pengingat kepada pelanggan yang belum 
+berbelanja dalam 3 bulan terakhir, dan mulai dari Bekasi karena persentasenya paling rendah."
+"Tambah akuisisi pelanggan baru di Medan, Jakarta, dan Yogyakarta. Belanja per pelanggan di ketiga 
+kota ini sudah tinggi, sehingga setiap pelanggan baru berpotensi bernilai besar. Iklan lokal atau program 
+referral bisa diuji di sana."
+"Dorong kenaikan nilai pesanan di Bandung. Paket bundling atau rekomendasi produk tambahan saat 
+checkout bisa mendorong nilai pesanan yang saat ini paling rendah."
+"Perbaiki pencatatan id pelanggan. Pesanan tanpa pelanggan valid mencapai Rp 204,7 juta. Jadikan 
+login atau nomor HP wajib saat checkout, agar pendapatan bisa ditelusuri ke pelanggan."
+"Jaga loyalitas di kota dengan repeat buyer terendah. Semarang dan Makassar punya repeat buyer 
+di bawah 92%. Program loyalti seperti poin atau diskon untuk pembelian ketiga bisa diuji di kota tersebut."
+
+
+Insight Pertanyaan 3
+"Ada 10 pelanggan yang menyumbang sekitar 12,4% dari total pendapatan. Total belanja mereka 
+Rp 356,6 juta, dari total Rp 2.872 juta. Padahal jumlah mereka hanya sekitar 7% dari 148 pelanggan 
+aktif. Artinya, kontribusinya cukup besar, tetapi tidak terlalu bergantung pada satu atau dua orang."
+"Nilai belanja tertinggi tidak selalu datang dari frekuensi tertinggi. Mega Setiawan (Jakarta) memiliki 12 
+pesanan, paling banyak di daftar, tetapi nilai per pesanannya hanya sekitar Rp 2,8 juta. Fitri Putra 
+hanya 10 pesanan, namun nilai per pesanannya sekitar Rp 4,6 juta, tertinggi di daftar. Ini berarti ada 
+dua tipe pelanggan bernilai tinggi: yang sering berbelanja dan yang berbelanja dalam nilai besar."
+"Surabaya memiliki dua pelanggan terbaik. Fitri Putra dan Eko Putra berasal dari kota yang sama. 
+Meskipun Surabaya hanya 16 pelanggan, kota ini memberi kontribusi besar di daftar top."
+"Hampir semua pelanggan teratas sudah mulai berbelanja sejak awal periode. Sembilan dari sepuluh 
+pesanan pertamanya terjadi pada Januari sampai April 2023. Ini menunjukkan pelanggan terbaik kita 
+cenderung sudah loyal sejak awal, bukan berkembang seiring waktu."
+"Dua dari sepuluh pelanggan teratas memiliki data pendaftaran yang tidak konsisten. PLG098 (Kevin 
+Rahayu) dan PLG142 (Dewi Pratama) tercatat berbelanja sebelum tanggal daftarnya. Ini sudah 
+ditandai di query, dan kolom hari pendaftarannya dikosongkan. Dua orang ini termasuk pelanggan 
+dengan nilai belanja tinggi, sehingga kualitas data mereka perlu diperiksa sebelum dijadikan dasar 
+keputusan."
+"Jarak antara pendaftaran dan pesanan pertama sangat bervariasi. Dari pelanggan yang datanya 
+konsisten, nilainya berkisar dari 66 hari (Agus Wijaya) sampai 443 hari (Eko Putra). Tidak ada pola 
+yang jelas bahwa pelanggan yang cepat berbelanja menjadi yang paling bernilai."
+
+Rekomendasi Strategi Pertanyaan 3
+"Buat program loyalitas khusus untuk pelanggan teratas. Sepuluh pelanggan ini memberi kontribusi 
+sekitar 12% pendapatan, sehingga layak mendapat perlakuan khusus, misalnya akses prioritas ke 
+produk baru, diskon eksklusif, atau layanan pelanggan khusus. Tujuannya menjaga mereka tetap aktif."
+"Bedakan pendekatan untuk tipe frekuensi dan tipe nilai. Pelanggan seperti Mega Setiawan bisa diajak 
+membeli produk dengan harga lebih tinggi, misalnya bundling atau produk premium. Pelanggan seperti 
+Fitri Putra mungkin lebih cocok diberi program langganan atau pengingat pembelian rutin."
+"Manfaatkan pelanggan Surabaya untuk program referral. Dua pelanggan terbaik dari kota yang sama 
+adalah peluang untuk menguji program ajak teman di Surabaya. Jika berhasil, bisa diperluas ke kota 
+lain."
+"Periksa dan perbaiki data pendaftaran sebelum laporan dipublikasikan. Dua dari sepuluh pelanggan 
+teratas memiliki tanggal yang tidak konsisten. Tim data perlu menelusuri asal kesalahan, misalnya 
+apakah tanggal daftar diisi ulang saat pelanggan membuat akun baru atau saat data dipindahkan."
+"Ukur efek program dengan membandingkan pelanggan teratas dari waktu ke waktu. Pantau apakah 
+sepuluh pelanggan ini tetap berbelanja di tahun 2024. Jika ada yang berhenti, itu sinyal awal yang 
+perlu segera ditindaklanjuti."
+
+
+Insight Pertanyaan 4
+"Elektronik adalah kategori terbesar, tetapi konsentrasinya ada di dua produk. Kategori Elektronik 
+menyumbang 36,7% pendapatan. Power Bank 10000mAh (Rp 171 juta) dan Mouse Wireless 
+(Rp 152,8 juta) menyumbang sekitar 11% dari total pendapatan sendirian."
+"Produk terlaris berdasarkan unit tidak sama dengan produk terlaris berdasarkan pendapatan. Rak 
+Sepatu Plastik menempati peringkat 1 unit terjual (250 unit), tetapi pendapatannya hanya peringkat 
+16 (Rp 92,3 juta) karena harganya rendah. Sebaliknya, Blender Portable hanya terjual 186 unit, tetapi 
+pendapatannya peringkat 4 (Rp 146,4 juta) karena harganya Rp 817.500."
+"Kategori Olahraga banyak terjual, tetapi nilainya kecil. Dumbbell 5kg, Skipping Rope, dan Resistance 
+Band masuk 5 besar unit terjual, tetapi harga satuannya di bawah Rp 500 ribu. Akibatnya, kontribusi 
+Olahraga hanya 9,95%."
+"Dua produk Buku tidak pernah terjual. Komik Petualangan Jilid 1 dan Kamus Bahasa Inggris tidak 
+memiliki transaksi. Sementara itu, Buku Resep Masakan (Rp 119,9 juta) dan Buku Belajar Python 
+(Rp 61,9 juta) cukup kuat, sehingga kategori Buku tetap menyumbang 8,31%."
+"Beberapa produk terlaris kehabisan atau hampir habis stok. Dumbbell 5kg dan Termos Stainless 
+stoknya 0, padahal masing-masing sudah terjual 240 dan 144 unit. Blender Portable tinggal 8 unit, 
+padahal peringkat pendapatannya ke-4. Kaos Polos Katun hanya tersisa 1 unit dengan 172 unit terjual."
+"Ada transaksi senilai Rp 23,7 juta yang tidak memiliki produk master. Sebanyak 45 unit tercatat 
+dengan id produk PRD099, yang tidak ada di tabel produk, sehingga harga resminya tidak diketahui. 
+Angka ini sekitar 0,8% dari pendapatan."
+"Potongan diskon tergolong kecil. Untuk sebagian besar produk, potongan diskon hanya sekitar 2–5% 
+dari pendapatan kotor. Harga transaksi juga konsisten dengan harga resmi, karena harga terendah 
+dan tertinggi transaksi sama dengan harga master di semua produk yang tercatat."
+
+Rekomendasi Strategi Pertanyaan 4
+"Prioritaskan restock untuk produk yang sudah terbukti laku. Dumbbell 5kg, Termos Stainless, Blender 
+Portable, dan Kaos Polos Katun perlu diisi ulang segera. Ini produk dengan penjualan tinggi, sehingga 
+kehabisan stok langsung menghilangkan pendapatan."
+"Lengkapi data stok yang kosong. Resistance Band dan Buku Belajar Python tidak punya nilai stok. 
+Tim gudang perlu memastikan apakah stoknya memang nol atau datanya belum diisi, karena keduanya 
+termasuk produk dengan penjualan besar."
+"Gunakan produk murah yang laku untuk mendorong pembelian bernilai lebih tinggi. Dumbbell, Skipping 
+Rope, dan Resistance Band bisa dipasangkan dengan produk olahraga yang lebih mahal, seperti 
+Matras Yoga (Rp 758.000), dalam bentuk paket. Tujuannya menaikkan nilai per transaksi di kategori 
+Olahraga."
+"Evaluasi atau hentikan produk yang tidak laku. Komik Petualangan Jilid 1 dan Kamus Bahasa Inggris 
+tidak memiliki penjualan sama sekali. Coba bundling dengan Buku Resep Masakan yang laku, atau 
+pertimbangkan untuk dihentikan jika tidak ada perbaikan setelah periode tertentu."
+"Perbaiki tabel master produk. Id PRD099 harus didaftarkan ke tabel produk, atau transaksinya 
+dipetakan ke produk yang benar. Jika tidak, Rp 23,7 juta tidak akan bisa dianalisis per kategori atau 
+per harga."
+"Uji efek diskon sebelum menaikkannya. Potongan yang kecil belum tentu membantu penjualan. 
+Untuk menguji, bandingkan volume produk yang diberi diskon dengan yang tidak selama periode 
+yang sama. Data ini belum cukup untuk menyimpulkan bahwa diskon mendorong penjualan."
+
+
+Insight Pertanyaan 5
+"QRIS adalah metode yang paling dipakai, tetapi tingkat pembatalannya sama dengan rata-rata. QRIS 
+menyumbang 31,5% pesanan (472 dari 1.500), tetapi tingkat pembatalannya 16,2%, sama dengan 
+total keseluruhan."
+"Perbedaan tingkat pembatalan antar metode tidak besar. E-Wallet (17,9%) dan Kartu Kredit (17,1%) 
+berada di atas rata-rata, sedangkan Transfer Bank (13,4%) dan COD (15,5%) di bawahnya. Namun, 
+selisihnya hanya sekitar 4 poin, dan jumlah pesanan per metode antara 216 sampai 264, sehingga 
+satu atau dua pesanan bisa mengubah persentasenya."
+"Hampir semua pesanan yang masih berjalan sudah terlalu lama. Ada 252 pesanan berstatus Diproses 
+atau Dikirim, dan 242 di antaranya (96%) lebih dari 30 hari sebelum tanggal pesanan terakhir di data.
+Ini bukan masalah metode pembayaran, melainkan indikasi bahwa status pesanan jarang diperbarui 
+atau pesanan benar-benar tersendat."
+"Pola pesanan yang tertahan proporsional dengan volume setiap metode. QRIS memiliki 84 pesanan 
+tertahan, E-Wallet 42, dan Transfer Bank 40. Ini sejalan dengan jumlah pesanan masing-masing, 
+sehingga tidak ada metode yang menjadi penyebab khusus."
+"Ada 72 pesanan (4,8%) tanpa metode pembayaran. Dari jumlah ini, 12 pesanan juga tertahan dan 12 
+dibatalkan. Tingkat pembatalan di kelompok ini (18,5%) adalah yang tertinggi, tetapi jumlahnya terlalu 
+kecil untuk disimpulkan."
+
+Rekomendasi Strategi Pertanyaan 5
+"Audit alur status pesanan sebagai prioritas utama. 242 pesanan tertahan lebih dari 30 hari adalah 
+temuan terbesar di query ini. Periksa apakah status tidak diperbarui di sistem, atau pesanan benar-
+benar gagal dikirim. Jika yang pertama, perbaiki proses pembaruan status. Jika yang kedua, tim 
+operasional perlu menindaklanjuti pesanan satu per satu."
+"Selidiki pembatalan pada E-Wallet dan Kartu Kredit. Periksa log pembayaran untuk melihat apakah 
+pembatalan terjadi karena kegagalan pembayaran, batas waktu habis, atau pembatalan oleh pelanggan. 
+Hasilnya menentukan apakah masalahnya ada di penyedia layanan atau di alur checkout."
+"Jadikan metode pembayaran wajib diisi saat checkout. Pesanan tanpa metode (72 pesanan) 
+membuat analisis metode tidak lengkap. Kolom ini perlu divalidasi sebelum pesanan bisa dikonfirmasi."
+"Tambahkan alasan pembatalan dan tanggal perubahan status ke data. Saat ini kita tidak tahu kenapa 
+pesanan dibatalkan atau kapan status terakhir berubah. Kedua kolom ini akan membuat analisis 
+pembatalan dan pesanan tertahan jauh lebih akurat."
+"Jangan mengubah strategi pembayaran hanya berdasarkan selisih kecil. Perbedaan tingkat 
+pembatalan antar metode belum cukup kuat untuk mendorong pelanggan memakai metode tertentu. 
+Jika ingin mengujinya, lakukan uji terkontrol dalam periode tertentu dengan jumlah pesanan yang 
+cukup."
